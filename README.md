@@ -1,5 +1,10 @@
 # BattleCity Mobile Game
 
+![battle2](https://user-images.githubusercontent.com/19604984/45000957-b127c780-afd1-11e8-9e3a-df513817547e.png)
+
+![battle1](https://user-images.githubusercontent.com/19604984/45000968-c7358800-afd1-11e8-83ac-2e3dc29f10ff.png)
+
+
 # Running the game
   Clone Project and open in Netbeans
  
