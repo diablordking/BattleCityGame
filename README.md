@@ -20,4 +20,4 @@
     Tiled Map Editor
   
 ### Notice:
-    -The sounds & visuals for this game have been extracted from the original game and modified by me for performance. This was only an experiment to get myself and others familiarized with the Quintus HTML5 gaming engine.
+The sounds & visuals for this game have been extracted from the original game and modified by me for performance. This was only an experiment to get myself and others familiarized with the Quintus HTML5 gaming engine.
