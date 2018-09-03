@@ -1,0 +1,1 @@
+{"player":{"sx":0,"sy":0,"cols":30,"tilew":32,"tileh":32,"frames":4},"enemy":{"sx":32,"sy":0,"cols":3,"tilew":32,"tileh":32,"frames":1},"duvar":{"sx":64,"sy":0,"cols":1,"tilew":32,"tileh":32,"frames":1},"eagle":{"sx":96,"sy":0,"cols":0,"tilew":32,"tileh":32,"frames":1}}
